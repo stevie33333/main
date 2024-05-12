@@ -1,0 +1,127 @@
+| Command | Description |
+
+| Alt + Ctrl + B | Buy Market Order|
+
+| Alt + Ctrl + S | Sell Market Order|
+
+| Shift + Alt + Ctrl + B | Join Bid|
+
+| Shift + Alt + Ctrl + S | Join Ask|
+
+| Alt + Ctrl + C | Close Position|
+
+| Alt + Ctrl + R | Reverse Position|
+
+| Shift + Alt + Ctrl + C | Cancel Orders|
+
+| Alt + Ctrl + F | Flatten All|
+
+| Alt + Ctrl + X | Cancel All|
+
+| Alt + Ctrl + 1 | Buy Market 1 Lot| 
+
+| Alt + Ctrl + 2 | Buy Market 2 Lots| 
+
+| Alt + Ctrl + 3 | Buy Market 3 Lots| 
+
+| Alt + Ctrl + 4 | Buy Market 4 Lots| 
+
+| Alt + Ctrl + 5 | Buy Market 5 Lots|
+
+| Alt + Ctrl + 9 | Buy Market 10 Lots| 
+
+| Alt + Ctrl + 0 | Buy Market 15 Lots| 
+
+| Alt + Ctrl + F1 | Sell Market 1 Lot| 
+
+| Alt + Ctrl + F2 | Sell Market 2 Lots|
+
+| Alt + Ctrl + F3 | Sell Market 3 Lots|
+
+| Alt + Ctrl + F4 | Sell Market 4 Lots|
+
+| Alt + Ctrl + F5 | Sell Market 5 Lots|
+
+| Alt + Ctrl + F9 | Sell Market 10 Lots|
+
+|Alt + Ctrl + F10 | Sell Market 15 Lots|
+
+| Alt + 1 | Join Bid 1 Lot| 
+
+| Alt + 2 | Join Bid 2 Lots|
+
+| Alt + 3 | Join Bid 3 Lots| 
+
+| Alt + 4 | Join Bid 4 Lots| 
+
+| Alt + 5 | Join Bid 5 Lots|
+
+| Alt + 9 | Join Bid 10 Lots|
+
+| Alt + 10 | Join Bid 15 Lots|
+
+| Alt + F1 | Join Ask 1 Lot|
+
+| Alt + F2 | Join Ask 2 Lots|
+
+| Alt + F3 | Join Ask 3 Lots| 
+
+| Alt + F4 | Join Ask 4 Lots|
+
+| Alt + F5 | Join Ask 5 Lots| 
+
+| Alt + F9 | Join Ask 10 Lots|
+
+| Alt + F10 | Join Ask 15 Lots|
+
+| Alt + Ctrl + 1 | Switch to NQ|
+
+| Alt + Ctrl + 2 | Switch to ES|
+
+| Alt + Ctrl + 3 | Switch to GC|
+
+| Alt + Ctrl + 4 | Switch to CL|
+
+| Alt + Ctrl + 5 | Switch to NKD|
+
+| Alt + Ctrl + 6 | Switch to YM|
+
+| Alt + Ctrl + 7 | Switch to SI|
+
+| Alt + Ctrl + 8 | Switch to MNQ|
+
+| Alt + Ctrl + 9 | Switch to MES|
+
+| Shift + Alt + Ctrl + 1 | Set Lot Size to 1|
+
+| Shift + Alt + Ctrl + 2 | Set Lot Size to 2|
+
+| Shift + Alt + Ctrl + 3 | Set Lot Size to 3|
+
+| Shift + Alt + Ctrl + 4 | Set Lot Size to 4|
+
+| Shift + Alt + Ctrl + 5 | Set Lot Size to 5| 
+
+| Shift + Alt + Ctrl + 9 | Set Lot Size to 10|
+
+|Shift + Alt + Ctrl + 0 | Set Lot Size to 15|
+
+| Ctrl + 1 | Switch to Account 1|
+
+| Ctrl + 2 | Switch to Account 2|
+
+| Ctrl + 3 | Switch to Account 3|
+
+| Ctrl + 4 | Switch to Account 4|
+
+| Ctrl + 5 | Switch to Account 5|
+
+| Ctrl + 6 | Switch to Account 6|
+
+| Ctrl + 7 | Switch to Account 7|
+
+| Ctrl + 8 | Switch to Account 8|
+
+| Ctrl + 9 | Switch to Account 9|
+
+| Alt + Ctrl + E | Break Even| 
